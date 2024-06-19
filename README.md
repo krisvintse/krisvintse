@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristian Vintse</h1>
 <h3 align="center">A passionate AQA Engineer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Automation QA with Cypress and JavaScript**
+- 🌱 I’m currently work **Automation QA Engineer with Cypress and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krisvintse](https://github.com/krisvintse)
 
